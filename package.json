@@ -1,0 +1,41 @@
+{
+  "name": "jobzmall",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.0.2",
+    "@mui/joy": "^5.0.0-beta.48",
+    "@mui/material": "^6.0.2",
+    "@mui/x-date-pickers": "^7.16.0",
+    "@nextui-org/dropdown": "^2.1.29",
+    "@nextui-org/input": "^2.2.4",
+    "@nextui-org/react": "^2.4.6",
+    "@react-google-maps/api": "^2.19.3",
+    "date-fns": "^3.6.0",
+    "dayjs": "^1.11.13",
+    "next": "14.2.8",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-router-dom": "^6.26.2",
+    "use-count-up": "^3.0.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.8",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
